@@ -1,5 +1,5 @@
 Aluno: Arthur de Paula Assis - GES 122
-Prra executar, abra o terminal:
+Para executar, abra o terminal:
 npm install cypress
 ./node_modules/.bin/cypress open
 
